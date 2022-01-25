@@ -159,7 +159,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.udacity.buildanapartment
+    Android: ec.edu.ups.departamento
     Standalone: com.Company.ProductName
     Tizen: com.MattSonic.Course2Project
     iOS: com.udacity.buildanapartment
